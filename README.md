@@ -9,7 +9,7 @@ Monday - Friday 27th Jan to 31st Jan
 
 ---
 
-#WEEK: Week 5
+# WEEK: Week 5
 This week: [7+3+2 = 12] hours  
 Planned next week: [3+?] hours  
 Total in project: [12] hours
